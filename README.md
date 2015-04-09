@@ -1,7 +1,7 @@
 # MozillaPH Dev Contribution Guide
 Guides in contributing to Mozilla Philippines Community open source projects.
 
-## Contributing code:
+## Contributing code
 
 * code should be properly commented.
 * code should be thoroughly tested.
