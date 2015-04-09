@@ -19,7 +19,7 @@ bug/feature.
   * pull requests are at 
     
   ```
-  https://github.com/mozillaph/<repo-name>/pulls. 
+  https://github.com/mozillaph/<repo-name>/pulls
   ```
     
 * If there isn't an existing issue there, please file an issue. The ideal
